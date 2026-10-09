@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/limestone/fancy_bricks",
+    "bottom": "createpalleteports:block/palettes/limestone/fancy_bricks",
+    "side": "createpalleteports:block/palettes/limestone/fancy_bricks",
+    "particle": "createpalleteports:block/palettes/limestone/fancy_bricks"
+  }
+}

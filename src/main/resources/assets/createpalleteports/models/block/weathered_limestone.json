@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "createpalleteports:block/palettes/weathered_limestone/plain",
+    "particle": "createpalleteports:block/palettes/weathered_limestone/plain"
+  }
+}

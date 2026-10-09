@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createpalleteports:dolomite"
+  },
+  "result": "createpalleteports:mossy_dolomite",
+  "count": 1
+}

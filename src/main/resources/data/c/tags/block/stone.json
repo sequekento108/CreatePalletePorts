@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "createpalleteports:polished_dark_scoria",
+    "createpalleteports:polished_dolomite",
+    "createpalleteports:polished_gabbro",
+    "createpalleteports:polished_limestone",
+    "createpalleteports:polished_scoria",
+    "createpalleteports:polished_weathered_limestone"
+  ]
+}

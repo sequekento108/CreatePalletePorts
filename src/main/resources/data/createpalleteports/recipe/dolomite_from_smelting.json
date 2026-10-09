@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "dolomite",
+  "ingredient": {
+    "item": "createpalleteports:dolomite_cobblestone"
+  },
+  "result": "createpalleteports:dolomite"
+}

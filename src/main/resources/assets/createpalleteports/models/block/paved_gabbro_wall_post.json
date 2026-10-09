@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "createpalleteports:block/palettes/gabbro/paved",
+    "particle": "createpalleteports:block/palettes/gabbro/paved"
+  }
+}

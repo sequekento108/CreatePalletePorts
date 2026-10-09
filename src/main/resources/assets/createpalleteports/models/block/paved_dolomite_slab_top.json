@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/dolomite/paved",
+    "top": "createpalleteports:block/palettes/dolomite/paved",
+    "side": "createpalleteports:block/palettes/dolomite/paved",
+    "particle": "createpalleteports:block/palettes/dolomite/paved"
+  }
+}

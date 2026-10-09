@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/dolomite/paved",
+    "bottom": "createpalleteports:block/palettes/dolomite/paved",
+    "side": "createpalleteports:block/palettes/dolomite/paved",
+    "particle": "createpalleteports:block/palettes/dolomite/paved"
+  }
+}

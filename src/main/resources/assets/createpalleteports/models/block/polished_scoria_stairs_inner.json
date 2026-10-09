@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/scoria/polished",
+    "bottom": "createpalleteports:block/palettes/scoria/polished",
+    "side": "createpalleteports:block/palettes/scoria/polished",
+    "particle": "createpalleteports:block/palettes/scoria/polished"
+  }
+}

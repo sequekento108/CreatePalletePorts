@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createpalleteports:limestone"
+  },
+  "result": "createpalleteports:paved_limestone",
+  "count": 1
+}

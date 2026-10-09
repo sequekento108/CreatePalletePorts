@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createpalleteports:block/andesite_bricks_slab"
+    },
+    "type=double": {
+      "model": "createpalleteports:block/andesite_bricks"
+    },
+    "type=top": {
+      "model": "createpalleteports:block/andesite_bricks_slab_top"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "createpalleteports:block/palettes/dolomite/paved",
+    "bottom": "createpalleteports:block/palettes/dolomite/paved_borderless",
+    "top": "createpalleteports:block/palettes/dolomite/paved_top",
+    "particle": "createpalleteports:block/palettes/dolomite/paved_borderless"
+  }
+}

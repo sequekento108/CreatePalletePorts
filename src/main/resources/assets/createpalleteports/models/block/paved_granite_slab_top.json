@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/granite/paved",
+    "top": "createpalleteports:block/palettes/granite/paved",
+    "side": "createpalleteports:block/palettes/granite/paved",
+    "particle": "createpalleteports:block/palettes/granite/paved"
+  }
+}

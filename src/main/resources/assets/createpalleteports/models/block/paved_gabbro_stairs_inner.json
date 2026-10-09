@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/gabbro/paved",
+    "bottom": "createpalleteports:block/palettes/gabbro/paved",
+    "side": "createpalleteports:block/palettes/gabbro/paved",
+    "particle": "createpalleteports:block/palettes/gabbro/paved"
+  }
+}

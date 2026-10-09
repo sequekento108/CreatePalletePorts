@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/weathered_limestone/polished",
+    "top": "createpalleteports:block/palettes/weathered_limestone/polished",
+    "side": "createpalleteports:block/palettes/weathered_limestone/polished_slab",
+    "particle": "createpalleteports:block/palettes/weathered_limestone/polished"
+  }
+}

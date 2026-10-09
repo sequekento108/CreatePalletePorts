@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "createpalleteports:block/palettes/diorite/paved",
+    "particle": "createpalleteports:block/palettes/diorite/paved"
+  }
+}

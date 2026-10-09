@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "createpalleteports:block/palettes/limestone/pillar",
+    "end": "createpalleteports:block/palettes/limestone/pillar_end",
+    "particle": "createpalleteports:block/palettes/limestone/pillar_end"
+  }
+}

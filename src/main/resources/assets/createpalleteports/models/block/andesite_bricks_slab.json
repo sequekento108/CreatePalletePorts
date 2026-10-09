@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/andesite/bricks",
+    "top": "createpalleteports:block/palettes/andesite/bricks",
+    "side": "createpalleteports:block/palettes/andesite/bricks",
+    "particle": "createpalleteports:block/palettes/andesite/bricks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "covered=false": {
+      "model": "createpalleteports:block/paved_granite"
+    },
+    "covered=true": {
+      "model": "createpalleteports:block/paved_granite_covered"
+    }
+  }
+}

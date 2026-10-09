@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createpalleteports:weathered_limestone"
+  },
+  "result": "createpalleteports:chiseled_weathered_limestone",
+  "count": 1
+}

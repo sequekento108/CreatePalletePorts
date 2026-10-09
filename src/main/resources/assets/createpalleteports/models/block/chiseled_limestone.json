@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "createpalleteports:block/palettes/limestone/chiseled",
+    "end": "createpalleteports:block/palettes/limestone/chiseled_top",
+    "particle": "createpalleteports:block/palettes/limestone/chiseled"
+  }
+}

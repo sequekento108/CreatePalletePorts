@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/weathered_limestone/cobblestone",
+    "bottom": "createpalleteports:block/palettes/weathered_limestone/cobblestone",
+    "side": "createpalleteports:block/palettes/weathered_limestone/cobblestone",
+    "particle": "createpalleteports:block/palettes/weathered_limestone/cobblestone"
+  }
+}

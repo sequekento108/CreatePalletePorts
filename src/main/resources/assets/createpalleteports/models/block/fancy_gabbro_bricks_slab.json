@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/gabbro/fancy_bricks",
+    "top": "createpalleteports:block/palettes/gabbro/fancy_bricks",
+    "side": "createpalleteports:block/palettes/gabbro/fancy_bricks",
+    "particle": "createpalleteports:block/palettes/gabbro/fancy_bricks"
+  }
+}

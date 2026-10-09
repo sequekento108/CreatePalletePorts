@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "createpalleteports:andesite_cobblestone",
+    "createpalleteports:dark_scoria_cobblestone",
+    "createpalleteports:diorite_cobblestone",
+    "createpalleteports:dolomite_cobblestone",
+    "createpalleteports:gabbro_cobblestone",
+    "createpalleteports:granite_cobblestone",
+    "createpalleteports:limestone_cobblestone",
+    "createpalleteports:scoria_cobblestone",
+    "createpalleteports:weathered_limestone_cobblestone"
+  ]
+}

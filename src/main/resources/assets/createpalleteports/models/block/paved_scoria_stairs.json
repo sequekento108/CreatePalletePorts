@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/scoria/paved",
+    "bottom": "createpalleteports:block/palettes/scoria/paved",
+    "side": "createpalleteports:block/palettes/scoria/paved",
+    "particle": "createpalleteports:block/palettes/scoria/paved"
+  }
+}

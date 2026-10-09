@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "createpalleteports:block/palettes/weathered_limestone/polished_slab",
+    "end": "createpalleteports:block/palettes/weathered_limestone/polished",
+    "particle": "createpalleteports:block/palettes/weathered_limestone/polished"
+  }
+}

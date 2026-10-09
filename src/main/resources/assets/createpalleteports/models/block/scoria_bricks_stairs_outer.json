@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/scoria/bricks",
+    "bottom": "createpalleteports:block/palettes/scoria/bricks",
+    "side": "createpalleteports:block/palettes/scoria/bricks",
+    "particle": "createpalleteports:block/palettes/scoria/bricks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/weathered_limestone/paved",
+    "bottom": "createpalleteports:block/palettes/weathered_limestone/paved",
+    "side": "createpalleteports:block/palettes/weathered_limestone/paved",
+    "particle": "createpalleteports:block/palettes/weathered_limestone/paved"
+  }
+}

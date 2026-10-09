@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "createpalleteports:block/palettes/dolomite/plain",
+    "particle": "createpalleteports:block/palettes/dolomite/plain"
+  }
+}

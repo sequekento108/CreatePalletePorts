@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createpalleteports:block/dolomite_bricks_slab"
+    },
+    "type=double": {
+      "model": "createpalleteports:block/dolomite_bricks"
+    },
+    "type=top": {
+      "model": "createpalleteports:block/dolomite_bricks_slab_top"
+    }
+  }
+}

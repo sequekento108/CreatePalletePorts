@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/dolomite/bricks",
+    "bottom": "createpalleteports:block/palettes/dolomite/bricks",
+    "side": "createpalleteports:block/palettes/dolomite/bricks",
+    "particle": "createpalleteports:block/palettes/dolomite/bricks"
+  }
+}

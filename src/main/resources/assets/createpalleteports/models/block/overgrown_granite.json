@@ -1,0 +1,10 @@
+{
+  "parent": "createpalleteports:block/overgrown",
+  "textures": {
+    "particle": "createpalleteports:block/palettes/granite/bricks",
+    "side": "createpalleteports:block/palettes/granite/bricks",
+    "top": "createpalleteports:block/palettes/granite/bricks",
+    "bottom": "createpalleteports:block/palettes/granite/bricks",
+    "overlay": "createpalleteports:block/palettes/overgrown"
+  }
+}

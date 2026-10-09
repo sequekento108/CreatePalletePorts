@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "createpalleteports:block/palettes/gabbro/paved",
+    "bottom": "createpalleteports:block/palettes/gabbro/paved_borderless",
+    "top": "createpalleteports:block/palettes/gabbro/paved_top",
+    "particle": "createpalleteports:block/palettes/gabbro/paved_borderless"
+  }
+}

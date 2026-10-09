@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/gabbro/paved",
+    "top": "createpalleteports:block/palettes/gabbro/paved",
+    "side": "createpalleteports:block/palettes/gabbro/paved",
+    "particle": "createpalleteports:block/palettes/gabbro/paved"
+  }
+}

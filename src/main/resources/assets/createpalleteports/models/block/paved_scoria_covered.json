@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "createpalleteports:block/palettes/scoria/paved_borderless",
+    "particle": "createpalleteports:block/palettes/scoria/paved_borderless"
+  }
+}

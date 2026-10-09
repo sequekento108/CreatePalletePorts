@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "createpalleteports:block/palettes/dark_scoria/fancy_bricks",
+    "particle": "createpalleteports:block/palettes/dark_scoria/fancy_bricks"
+  }
+}

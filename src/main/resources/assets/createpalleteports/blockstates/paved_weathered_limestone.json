@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "covered=false": {
+      "model": "createpalleteports:block/paved_weathered_limestone"
+    },
+    "covered=true": {
+      "model": "createpalleteports:block/paved_weathered_limestone_covered"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/granite/bricks",
+    "bottom": "createpalleteports:block/palettes/granite/bricks",
+    "side": "createpalleteports:block/palettes/granite/bricks",
+    "particle": "createpalleteports:block/palettes/granite/bricks"
+  }
+}

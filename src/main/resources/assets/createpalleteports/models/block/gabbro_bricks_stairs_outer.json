@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/gabbro/bricks",
+    "bottom": "createpalleteports:block/palettes/gabbro/bricks",
+    "side": "createpalleteports:block/palettes/gabbro/bricks",
+    "particle": "createpalleteports:block/palettes/gabbro/bricks"
+  }
+}

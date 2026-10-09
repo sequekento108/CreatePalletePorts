@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/scoria/paved",
+    "top": "createpalleteports:block/palettes/scoria/paved",
+    "side": "createpalleteports:block/palettes/scoria/paved",
+    "particle": "createpalleteports:block/palettes/scoria/paved"
+  }
+}

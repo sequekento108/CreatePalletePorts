@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "createpalleteports:block/palettes/limestone/bricks",
+    "particle": "createpalleteports:block/palettes/limestone/bricks"
+  }
+}

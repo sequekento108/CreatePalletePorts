@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createpalleteports:block/paved_dolomite_slab"
+    },
+    "type=double": {
+      "model": "createpalleteports:block/paved_dolomite"
+    },
+    "type=top": {
+      "model": "createpalleteports:block/paved_dolomite_slab_top"
+    }
+  }
+}

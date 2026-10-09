@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createpalleteports:block/paved_diorite_slab"
+    },
+    "type=double": {
+      "model": "createpalleteports:block/paved_diorite"
+    },
+    "type=top": {
+      "model": "createpalleteports:block/paved_diorite_slab_top"
+    }
+  }
+}

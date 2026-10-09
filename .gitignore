@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Minecraft run dirs
+run/
+run-data/
+src/generated/resources/.cache/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

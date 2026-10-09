@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/gabbro/fancy_bricks",
+    "bottom": "createpalleteports:block/palettes/gabbro/fancy_bricks",
+    "side": "createpalleteports:block/palettes/gabbro/fancy_bricks",
+    "particle": "createpalleteports:block/palettes/gabbro/fancy_bricks"
+  }
+}

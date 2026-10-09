@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createpalleteports:block/polished_weathered_limestone_slab"
+    },
+    "type=double": {
+      "model": "createpalleteports:block/polished_weathered_limestone_slab_double"
+    },
+    "type=top": {
+      "model": "createpalleteports:block/polished_weathered_limestone_slab_top"
+    }
+  }
+}

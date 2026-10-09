@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "createpalleteports:block/palettes/andesite/paved",
+    "bottom": "createpalleteports:block/palettes/andesite/paved_borderless",
+    "top": "createpalleteports:block/palettes/andesite/paved_top",
+    "particle": "createpalleteports:block/palettes/andesite/paved_borderless"
+  }
+}

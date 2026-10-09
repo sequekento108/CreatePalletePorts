@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createpalleteports:gabbro"
+  },
+  "result": "createpalleteports:overgrown_gabbro",
+  "count": 1
+}

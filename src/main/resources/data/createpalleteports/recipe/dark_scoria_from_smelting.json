@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "dark_scoria",
+  "ingredient": {
+    "item": "createpalleteports:dark_scoria_cobblestone"
+  },
+  "result": "createpalleteports:dark_scoria"
+}

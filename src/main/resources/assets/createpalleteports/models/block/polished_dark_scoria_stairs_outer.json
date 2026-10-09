@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/dark_scoria/polished",
+    "bottom": "createpalleteports:block/palettes/dark_scoria/polished",
+    "side": "createpalleteports:block/palettes/dark_scoria/polished",
+    "particle": "createpalleteports:block/palettes/dark_scoria/polished"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "covered=false": {
+      "model": "createpalleteports:block/paved_gabbro"
+    },
+    "covered=true": {
+      "model": "createpalleteports:block/paved_gabbro_covered"
+    }
+  }
+}

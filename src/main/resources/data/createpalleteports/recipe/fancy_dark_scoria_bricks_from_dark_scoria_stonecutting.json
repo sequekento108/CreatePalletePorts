@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createpalleteports:dark_scoria"
+  },
+  "result": "createpalleteports:fancy_dark_scoria_bricks",
+  "count": 1
+}

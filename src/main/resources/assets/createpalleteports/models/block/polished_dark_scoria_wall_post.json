@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "createpalleteports:block/palettes/dark_scoria/polished",
+    "particle": "createpalleteports:block/palettes/dark_scoria/polished"
+  }
+}

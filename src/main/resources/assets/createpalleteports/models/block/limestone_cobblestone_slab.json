@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/limestone/cobblestone",
+    "top": "createpalleteports:block/palettes/limestone/cobblestone",
+    "side": "createpalleteports:block/palettes/limestone/cobblestone",
+    "particle": "createpalleteports:block/palettes/limestone/cobblestone"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/andesite/bricks",
+    "bottom": "createpalleteports:block/palettes/andesite/bricks",
+    "side": "createpalleteports:block/palettes/andesite/bricks",
+    "particle": "createpalleteports:block/palettes/andesite/bricks"
+  }
+}

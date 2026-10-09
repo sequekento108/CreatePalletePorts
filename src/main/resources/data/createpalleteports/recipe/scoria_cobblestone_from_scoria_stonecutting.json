@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createpalleteports:scoria"
+  },
+  "result": "createpalleteports:scoria_cobblestone",
+  "count": 1
+}

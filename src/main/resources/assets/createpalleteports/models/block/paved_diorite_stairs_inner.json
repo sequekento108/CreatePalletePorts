@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/diorite/paved",
+    "bottom": "createpalleteports:block/palettes/diorite/paved",
+    "side": "createpalleteports:block/palettes/diorite/paved",
+    "particle": "createpalleteports:block/palettes/diorite/paved"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createpalleteports:block/palettes/gabbro/polished",
+    "top": "createpalleteports:block/palettes/gabbro/polished",
+    "side": "createpalleteports:block/palettes/gabbro/polished_slab",
+    "particle": "createpalleteports:block/palettes/gabbro/polished"
+  }
+}

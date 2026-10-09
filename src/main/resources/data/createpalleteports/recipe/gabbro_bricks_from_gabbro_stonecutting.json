@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createpalleteports:gabbro"
+  },
+  "result": "createpalleteports:gabbro_bricks",
+  "count": 1
+}

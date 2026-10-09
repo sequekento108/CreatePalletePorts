@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createpalleteports:block/paved_dark_scoria_slab"
+    },
+    "type=double": {
+      "model": "createpalleteports:block/paved_dark_scoria"
+    },
+    "type=top": {
+      "model": "createpalleteports:block/paved_dark_scoria_slab_top"
+    }
+  }
+}

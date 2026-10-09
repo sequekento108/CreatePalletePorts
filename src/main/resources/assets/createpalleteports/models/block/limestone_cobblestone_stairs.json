@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/limestone/cobblestone",
+    "bottom": "createpalleteports:block/palettes/limestone/cobblestone",
+    "side": "createpalleteports:block/palettes/limestone/cobblestone",
+    "particle": "createpalleteports:block/palettes/limestone/cobblestone"
+  }
+}

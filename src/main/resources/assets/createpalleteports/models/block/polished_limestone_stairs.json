@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "createpalleteports:block/palettes/limestone/polished",
+    "bottom": "createpalleteports:block/palettes/limestone/polished",
+    "side": "createpalleteports:block/palettes/limestone/polished",
+    "particle": "createpalleteports:block/palettes/limestone/polished"
+  }
+}

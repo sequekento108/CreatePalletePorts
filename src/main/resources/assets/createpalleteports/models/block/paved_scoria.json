@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "createpalleteports:block/palettes/scoria/paved",
+    "bottom": "createpalleteports:block/palettes/scoria/paved_borderless",
+    "top": "createpalleteports:block/palettes/scoria/paved_top",
+    "particle": "createpalleteports:block/palettes/scoria/paved_borderless"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "createpalleteports:block/palettes/dolomite/pillar",
+    "end": "createpalleteports:block/palettes/dolomite/pillar_end",
+    "particle": "createpalleteports:block/palettes/dolomite/pillar_end"
+  }
+}
